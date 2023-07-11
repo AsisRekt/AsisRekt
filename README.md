@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @AsisRekt
-- 👀 I’m interested in making anything about editting, deepfake, coding, minecraft, hacking clients in minecraft and crypto AI bots.
-- 🌱 I’m currently learning Java and making minecraft plugins.
+Hi, I’m @AsisRekt
